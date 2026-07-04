@@ -18,3 +18,11 @@ print(df['Name'])
 
 ages = pd.Series([20, 25, 30, 35, 40], name='Age')
 print(ages)
+
+#some basic functions yk 
+print(df["Age"].max())
+print(ages.max())
+
+#describe
+print(df.describe())
+
