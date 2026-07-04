@@ -11,3 +11,4 @@ print(titanic.head(10))
 
 #tail() method
 print(titanic.tail())
+print(titanic.tail(10))
