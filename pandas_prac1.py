@@ -9,3 +9,12 @@ df = pd.DataFrame({
 })  
 
 print(df)
+
+#printing a specific column
+print(df['Name'])
+
+#each column is a series
+#creating a series
+
+ages = pd.Series([20, 25, 30, 35, 40], name='Age')
+print(ages)
