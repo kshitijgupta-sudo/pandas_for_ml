@@ -1,4 +1,4 @@
-📊 Pandas Practice Repository
+📊 Pandas Practice Repository 
 
 A collection of my practice work, mini-projects, and experiments using Python Pandas for data analysis and manipulation.
 
